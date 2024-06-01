@@ -2,6 +2,8 @@
 
 Idea - you can ask a hubot where jameswhite is, and then it tell you.
 
+![random__Channel__-_stahnma_-_Slack](https://github.com/stahnma/jwmapper/assets/6961/e37a6c6c-be0d-46e9-aea4-54bdc6433932)
+
 # Background
 
 1. You need to have jameswhite's location shared with you via google.
